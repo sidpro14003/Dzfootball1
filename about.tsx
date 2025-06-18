@@ -1,0 +1,1 @@
+// pages/about.tsx - Sample content

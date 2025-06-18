@@ -1,0 +1,1 @@
+// languageSwitcher.tsx - Dummy content

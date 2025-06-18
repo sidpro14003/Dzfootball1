@@ -1,0 +1,1 @@
+// Component for a table row in standings
